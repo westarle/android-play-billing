@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.android.trivialdrivesample.util;
+package com.example.android.billingclient;
 
 /**
  * Represents the result of an in-app billing operation.

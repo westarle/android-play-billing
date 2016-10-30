@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.android.trivialdrivesample.util;
+package com.example.android.billingclient;
 
 import android.text.TextUtils;
 import android.util.Base64;

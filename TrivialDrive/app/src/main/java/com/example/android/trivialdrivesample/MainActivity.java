@@ -30,13 +30,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.android.trivialdrivesample.util.IabBroadcastReceiver;
-import com.example.android.trivialdrivesample.util.IabBroadcastReceiver.IabBroadcastListener;
-import com.example.android.trivialdrivesample.util.IabHelper;
-import com.example.android.trivialdrivesample.util.IabHelper.IabAsyncInProgressException;
-import com.example.android.trivialdrivesample.util.IabResult;
-import com.example.android.trivialdrivesample.util.Inventory;
-import com.example.android.trivialdrivesample.util.Purchase;
+import com.example.android.billingclient.IabBroadcastReceiver;
+import com.example.android.billingclient.IabBroadcastReceiver.IabBroadcastListener;
+import com.example.android.billingclient.IabHelper;
+import com.example.android.billingclient.IabHelper.IabAsyncInProgressException;
+import com.example.android.billingclient.IabResult;
+import com.example.android.billingclient.Inventory;
+import com.example.android.billingclient.Purchase;
 
 import java.util.ArrayList;
 import java.util.List;
